@@ -166,3 +166,4 @@ code-review-ai/
 - **OpenAI GPT-4o-mini** — Analyse du code (rapide et peu coûteux)
 - **API GitHub REST** — Récupération des diffs et publication des commentaires
 - **ngrok** — Tunnel pour exposer le serveur en local
+# code-review-ai
